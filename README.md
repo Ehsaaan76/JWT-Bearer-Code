@@ -1,1 +1,1 @@
-Make Sure you convert "ExpiryMinutes" in appSettings.json to "ExpirationMinutes"
+Make Sure you convert "ExpiryMinutes" in appSettings.json to "ExpirationMinutes".
